@@ -1,11 +1,37 @@
-{
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
+[
+  {
+    "id": 1,
+    "name": "Ноутбук Dell Presicion",
+    "descr": "Lorem  ipsum dffgfd dsfs",
+    "price": 12000,
+    "img": "https://mobikoff.com.ua/pub/media/magefan_blog/best-laptops.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Ноутбук Acer 5b",
+    "descr": "Lorem  ipsum dffgfd dsfs",
+    "price": 15000,
+    "img": "https://i.citrus.world/imgcache/size_800/uploads/shop/f/a/fa62bc1a74240e5da7628b2694592558.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Ноутбук Lenovo Ideapad",
+    "descr": "Lorem  ipsum dffgfd dsfs",
+    "price": 22000,
+    "img": "https://images.prom.ua/4116089893_noutbuk-dell-precision.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Ноутбук Dell Inspiron",
+    "descr": "Lorem  ipsum dffgfd dsfs",
+    "price": 7000,
+    "img": "https://content2.rozetka.com.ua/goods/images/big/280743004.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Ноутбук Apple MacBook",
+    "descr": "Lorem  ipsum dffgfd dsfs",
+    "price": 16000,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDvux0DOsToGBDGCu9dJHZNQ5xBUH8xESxHtVucGiqx_5MjwYt2nEcb_ZicIoocR1jT9o&usqp=CAU"
   }
-}
+]
