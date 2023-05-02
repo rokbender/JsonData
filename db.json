@@ -1,6 +1,5 @@
 {
   "items":[
-  [
   {
     "id": 1,
     "name": "Ноутбук Dell Presicion",
@@ -36,6 +35,5 @@
     "price": 16000,
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDvux0DOsToGBDGCu9dJHZNQ5xBUH8xESxHtVucGiqx_5MjwYt2nEcb_ZicIoocR1jT9o&usqp=CAU"
   }
-]
 ]
 } 
