@@ -16,17 +16,6 @@
     "name": "Ноутбук Lenovo Ideapad",
     "descr": "Lorem  ipsum dffgfd dsfs",
     "price": 22000
-  },
-  {
-    "id": 4,
-    "name": "Ноутбук Dell Inspiron",
-    "descr": "Lorem  ipsum dffgfd dsfs",
-    "price": 7000
-  },
-  {
-    "id": 5,
-    "name": "Ноутбук Apple MacBook",
-    "descr": "Lorem  ipsum dffgfd dsfs",
-    "price": 16000
   }
+  
 ]
